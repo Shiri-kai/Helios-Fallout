@@ -4,8 +4,7 @@ RECIPE.description = "*The schematic before you has a list of instructions that 
 RECIPE.model = "models/mosi/fallout4/props/junk/technicaldocument.mdl"
 RECIPE.category = "[-Upgrades-]"
 RECIPE.requirements = {
-	["craftingsteel"] = 7,
-        ["metbaseballbat"] = 1,
+	["craftingsteel"] = 14
 }
 RECIPE.results = {
 	["metalchainbat"] = 1
