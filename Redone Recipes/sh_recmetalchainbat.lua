@@ -5,7 +5,7 @@ RECIPE.model = "models/mosi/fallout4/props/junk/technicaldocument.mdl"
 RECIPE.category = "[-Upgrades-]"
 RECIPE.requirements = {
 	["craftingsteel"] = 7,
-	["metbaseballbat"] = 4
+	["metbaseballbat"] = 1
 }
 RECIPE.results = {
 	["metalchainbat"] = 1
