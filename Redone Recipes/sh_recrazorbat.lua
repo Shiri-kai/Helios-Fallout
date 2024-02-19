@@ -6,7 +6,7 @@ RECIPE.category = "[-Upgrades-]"
 RECIPE.requirements = {
 	["craftingsteel"] = 8,
         ["craftingleather"] = 1,
-        ["craftingaluminium"] = 4,
+        ["metbaseballbat"] = 1,
 }
 RECIPE.results = {
 	["metalrazorbat"] = 1
